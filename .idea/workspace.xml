@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b114dbb-986b-4f7c-bc4c-1f56094b0fd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/VaccineScheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/VaccineScheduler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/VaccineScheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/VaccineScheduler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/resources/create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/resources/design.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/src/main/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/src/main/resources/create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/src/main/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/src/main/resources/design.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/resources/create.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/resources/design.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/Scheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/db/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/db/ConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Caregiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Caregiver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Vaccine.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Vaccine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +40,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leah/Desktop/jobs/Projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leah/Desktop/jobs/Projects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Projects" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676073169990</updated>
-      <workItem from="1676073171983" duration="3616000" />
+      <workItem from="1676073171983" duration="3663000" />
+      <workItem from="1676077618819" duration="39000" />
     </task>
     <servers />
   </component>
