@@ -1,0 +1,6 @@
+Briefly list any changes you made to your graph class during hw-pathfinder, and why you made those changes.
+
+Beyond making the existing implementation generic, I also changed the data structure that stores
+the edges from originally Lists to now Sets (specifically, HashSets), because HashSets store
+the edges in a sorted order, whereas ArrayLists do not sort the elements without additional
+sorting algorithms.

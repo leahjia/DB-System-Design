@@ -1,0 +1,92 @@
+
+/*
+CSS file used by the Application
+
+It provides placement and style information for the components in the app
+and only exists for aesthetic purposes. The app would work just fine if this
+file was empty.
+*/
+
+/* style for searching area */
+#prompt {
+    transition: all 0.1s ease-in;
+    list-style: none;
+    color: #dadce1;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    --button-size: 30;
+    width: var(--button-size);
+    height: var(--button-size);
+    border-radius: 50%;
+    padding: 5px;
+    margin: 2px;
+}
+
+/* theme style */
+#root, body {
+    background-color: #242526;
+}
+
+/* Centers component with ID "map-wrapper" and sets width and bottom spacing */
+#map {
+    margin: 20px auto;
+    width: 800px;
+    border-radius: 10px;
+}
+
+/* feature: hover behavior for the dropdown lists */
+#dropdownList:hover, #buttons:hover {
+    cursor: pointer;
+    filter: brightness(1.5);
+    transition: filter 300ms;
+}
+
+/* feature: style for the dropdown lists */
+#dropdownList, body {
+    padding: .5rem;
+    background: #242526;
+    color: #dadce1;
+    border-radius: 8px;
+    margin: 6px;
+}
+
+/* style for buttons */
+#buttons {
+    padding: .5rem;
+    color: whitesmoke;
+    border: 4px solid #1a202c;
+    border-radius: 10px;
+    font-size: 16px;
+    block-size: 40px;
+    background-color: saddlebrown;
+    width: 200px;
+    margin: 10px 40px 20px 40px; /* top left? bottom right? */
+}
+
+/* style for the web title */
+#appTitle {
+    color: #dadce1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    --button-size: 30;
+    width: var(--button-size);
+    height: var(--button-size);
+    border-radius: 50%;
+    padding: 5px;
+    margin: 5px;
+    transition: filter 300ms;
+}
+
+/* Sets size of map, which has class name "leaflet-container" */
+.leaflet-container {
+    width: 800px;
+    height: 550px;
+    border: 6px solid saddlebrown;
+    border-radius: 10px;
+}
+
+
