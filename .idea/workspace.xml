@@ -5,25 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b114dbb-986b-4f7c-bc4c-1f56094b0fd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/hw-setup/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/Adder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/Evaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/Finder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/HolaWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/RandomHello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/main/java/setup/answers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/test/java/setup/EvaluatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/test/java/setup/FibonacciTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/test/java/setup/FinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/test/java/setup/HolaWorldTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw-setup/src/test/java/setup/RandomHelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-sets/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-sets/src/main/java/sets/FiniteSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-sets/src/main/java/sets/SimpleSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-sets/src/test/java/sets/FiniteSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw-sets/src/test/java/sets/SimpleSetTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676073169990</updated>
-      <workItem from="1676073171983" duration="615000" />
+      <workItem from="1676073171983" duration="807000" />
     </task>
     <servers />
   </component>
