@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b114dbb-986b-4f7c-bc4c-1f56094b0fd5" name="Changes" comment="" />
+    <list default="true" id="1b114dbb-986b-4f7c-bc4c-1f56094b0fd5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/VaccineScheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/VaccineScheduler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/VaccineScheduler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/VaccineScheduler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/resources/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/resources/design.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/src/main/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/src/main/resources/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/out/production/VaccineScheduler/src/main/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/out/production/VaccineScheduler/src/main/resources/design.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/resources/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/resources/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/resources/design.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/resources/design.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/Scheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/db/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/db/ConnectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Caregiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Caregiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/model/Vaccine.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/model/Vaccine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VaccineScheduler/src/main/scheduler/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/vaccine-scheduler/src/main/scheduler/util/Util.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676073169990</updated>
-      <workItem from="1676073171983" duration="2999000" />
+      <workItem from="1676073171983" duration="3616000" />
     </task>
     <servers />
   </component>
