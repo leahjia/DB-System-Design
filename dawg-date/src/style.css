@@ -1,0 +1,387 @@
+/* general style for entire page */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+/* color for name of the website */
+.name {
+    color: #f5cf5e;
+}
+
+/* style for all texts: getting rid of underlines */
+a {
+    text-decoration: none;
+}
+
+/* general body styling */
+body {
+    min-height: 100vh;
+    width: 100%;
+    background-color: whitesmoke;
+    background-size: cover;
+}
+
+/* styles of NavBar/header */
+header {
+    min-height: 12rem;
+    background-position: center;
+    background-size: cover;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+}
+
+.logo {
+    cursor: pointer;
+}
+
+nav img {
+    width: 4rem;
+}
+
+.navbar-bg {
+    background-image: linear-gradient(#33114999, #b4b7d14d), url('../public/img/bg-header.jpeg');
+}
+
+.navbar {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    display: inline-block;
+    margin-left: .2rem;
+    padding: .5rem 1rem;
+    color: azure;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.btn {
+    display: inline-block;
+    margin: .5rem;
+    padding: .3rem;
+    color: azure;
+    text-decoration: none;
+    font-size: 1.2rem;
+
+}
+
+.nav-link:hover, .active {
+    color: #f5cf5e;
+}
+
+.nav-link::after {
+    content: '';
+    width: 0%;
+    height: .5rem;
+    background: #634ea7;
+    display: block;
+    margin: auto;
+    transition: .5s;
+}
+
+.nav-link:hover::after, .active::after {
+    width: 100%;
+}
+
+.row {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-grow: 1;
+}
+
+/* styling for ProfileList */
+.profile-list {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.profile {
+    flex-basis: 40%;
+    border-radius: 1rem;
+    margin-bottom: 5rem;
+    text-align: left;
+    background: #b5b5d5;
+    padding: 2rem 1rem;
+}
+
+.profile img {
+    width: 70%;
+    border-radius: 1rem;
+}
+
+.profile h2 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+}
+
+.profile-description {
+    display: none;
+}
+
+/* style for MyProfile */
+.cover {
+    background-image: url(../public/img/mgh_interior.jpeg.crdownload);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.profile-head {
+    transform: translateY(5rem)
+}
+
+/* style for Footer */
+.fa {
+    padding: 1rem;
+    width: 4rem;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+}
+
+footer {
+    background: #37204f;
+    width: 100vw;
+    color: #ffffff;
+}
+
+.footer-info {
+    text-align: center;
+}
+
+.footer-info h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 3rem;
+
+}
+
+.footer-info p {
+    margin: 1rem 1rem;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+}
+
+.links a {
+    color: #ffffff;
+    font-size: 1.5rem;
+    transition: .3s;
+}
+
+.links a:hover {
+    opacity: .5;
+    color: #5af1c4eb;
+}
+
+.copyright {
+    background: #000;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.copyright p {
+    font-size: .9rem;
+}
+
+/* style for search/filter on HomePage */
+.search-container {
+    text-align: center;
+    margin: 1rem;
+}
+
+.search-bar input {
+    background-color: transparent;
+    width: 20rem;
+    border: .2rem solid #5c13c9;
+    border-radius: 2rem;
+    padding: 1rem 1rem;
+}
+
+.filter {
+    border: .2rem solid #9874ce;
+    margin: 1rem;
+    padding: .5rem 2rem;
+    border-radius: 5rem;
+    background-color: transparent;
+    color: #5c13c9;
+    cursor: pointer;
+}
+
+/* style for LandingPage */
+.landing {
+    padding: 2rem;
+    background-image: url('../public/img/bg-landing.jpg');
+    background-position: bottom;
+    background-size: cover;
+    height: 100vh;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .3);
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome {
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+.create-account {
+    display: block;
+    width: fit-content;
+    padding: 1rem 2rem;
+    margin: auto;
+    background-image: linear-gradient(to right, #5c13c9, #9874ce);
+    color: white;
+    border-radius: 4rem;
+    font-weight: bold;
+}
+
+.create-account:hover {
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .2);
+    color: rgba(255, 255, 255, .8);
+    border-width: 10rem;
+    border-color: white;
+}
+
+/* styling for about section on LandingPage */
+.about {
+    margin: 2rem 2rem;
+    text-align: center;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.card-image-bg {
+    background: lavender;
+    border-radius: 50%;
+    width: 8rem;
+    height: 8rem;
+    margin: 2rem;
+}
+
+.about-image {
+    height: 4rem;
+    margin-top: 2rem;
+}
+
+.about-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    flex-basis: 30rem;
+    padding: 1.5rem;
+}
+
+.mr-3 img {
+    width: 200%;
+    padding: 1rem;
+}
+
+.col-md-5 {
+    flex: 0 0 auto;
+    width: auto;
+}
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+
+/* media queries for larger screens */
+@media (min-width: 768px) {
+    .navbar {
+        padding: 2rem;
+    }
+
+    .profile {
+        flex-basis: 45%;
+    }
+
+    .profile-description {
+        display: block;
+    }
+
+    .welcome {
+        font-size: 4rem;
+    }
+
+    .about-container {
+        flex-direction: row;
+    }
+
+    header {
+        height: 20vh;
+    }
+
+    .search-bar input {
+        width: 30rem;
+    }
+
+    .navbar ul li {
+        display: inline-block;
+        margin-left: 1rem;
+        padding: 1rem 1rem;
+        color: azure;
+        text-decoration: none;
+        font-size: 1.2rem;
+    }
+
+}
+
+/* media queries for even larger screens */
+@media (min-width: 1080px) {
+    .navbar {
+        padding: 4rem;
+    }
+
+    .profile {
+        flex-basis: 22%;
+    }
+
+    .profile-description {
+        display: block;
+    }
+
+    .welcome {
+        font-size: 4rem;
+    }
+
+    .about-container {
+        flex-direction: row;
+    }
+
+    header {
+        height: 25vh;
+    }
+
+    .search-bar input {
+        width: 40rem;
+    }
+
+}
