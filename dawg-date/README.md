@@ -64,3 +64,5 @@ Project Link: [https://dawgdate-info340-project.web.app/](https://dawgdate-info3
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
