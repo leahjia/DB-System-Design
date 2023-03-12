@@ -37,11 +37,6 @@
   npm install npm@latest -g
   ```
 
-<!-- CONTACT -->
-## Link
-
-Project Link: [https://github.com/leahjia/Projects](https://github.com/leahjia/Projects)
-
 
 <!-- PROJECT LOGO -->
 <br />
