@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/leahjia/Projects">
+  <a href="https://dawgdate-info340-project.web.app/">
     <img src="public/img/landing.png" alt="Logo" width="800" height="500">
   </a>
 
