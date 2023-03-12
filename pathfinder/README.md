@@ -5,9 +5,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/img/pathfinder-landing.png" alt="Logo" width="800" height="500">
-    <img src="public/img/pathfinder-result.png" alt="Logo" width="800" height="500">
+  <a href="https://github.com/leahjia/Projects">
+    <img src="img/pathfinder-landing.png" alt="Logo" width="800" height="500">
+    <img src="img/pathfinder-result.png" alt="Logo" width="800" height="500">
   </a>
 
   <h3 align="center">Campus Path Finder</h3>
