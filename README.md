@@ -73,14 +73,12 @@
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 * npm
   ```sh
   npm install npm@latest -g
   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
