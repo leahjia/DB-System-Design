@@ -22,16 +22,11 @@
 * It is a platform that focuses on you. 
 * Save time and find others based on your own preferences 💌
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 * npm
@@ -39,16 +34,12 @@
   npm install npm@latest -g
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Leah Jia - [@leahjia](https://www.linkedin.com/in/leahjia/) - yuwenj3@uw.edu
 
 Project Link: [https://github.com/leahjia/Projects](https://github.com/leahjia/Projects)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -60,9 +51,6 @@ Project Link: [https://github.com/leahjia/Projects](https://github.com/leahjia/P
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
