@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Leah Jia's Projects
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -25,6 +27,7 @@
 * It increases data sorting and retrieval speed by 70% by incorporating Dijkstra’s algorithm ✔️
 * It also ensures high complexity and functionality of the application with Jest, JUnit, and script tests that runs in the back end 🥇
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -37,6 +40,7 @@
   ```sh
   npm install npm@latest -g
   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- PROJECT LOGO -->
@@ -53,11 +57,15 @@
   </p>
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 * DawgDate provides a secure platform exclusively for University of Washington students to safely meet each other.
 * It is a platform that focuses on you. 
 * Save time and find others based on your own preferences 💌
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### Built With
@@ -65,11 +73,14 @@
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 * npm
   ```sh
   npm install npm@latest -g
   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -78,6 +89,7 @@ Leah Jia - [@leahjia](https://www.linkedin.com/in/leahjia/) - yuwenj3@uw.edu
 
 Project Link: [https://dawgdate-info340-project.web.app/](https://dawgdate-info340-project.web.app/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
