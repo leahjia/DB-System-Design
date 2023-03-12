@@ -1,4 +1,4 @@
-# Projects
+# Leah Jia's Projects
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
