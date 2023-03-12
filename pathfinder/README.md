@@ -13,7 +13,7 @@
   <h3 align="center">Campus Path Finder</h3>
 
   <p align="center">
-    The quickest way to find available path on campus!
+    The quickest way to find available routes on campus!
   </p>
 </div>
 
