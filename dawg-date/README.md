@@ -39,7 +39,7 @@
 
 Leah Jia - [@leahjia](https://www.linkedin.com/in/leahjia/) - yuwenj3@uw.edu
 
-Project Link: [https://github.com/leahjia/Projects](https://github.com/leahjia/Projects)
+Project Link: [https://dawgdate-info340-project.web.app/](https://dawgdate-info340-project.web.app/)
 
 
 
