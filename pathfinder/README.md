@@ -6,7 +6,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/leahjia/Projects">
-    <img src="img/pathfinder-landing.png" alt="Logo" width="800" height="500">
     <img src="img/pathfinder-result.png" alt="Logo" width="800" height="500">
   </a>
 
