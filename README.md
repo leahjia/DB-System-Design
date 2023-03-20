@@ -92,7 +92,7 @@ Project Link: [https://dawgdate-info340-project.web.app/](https://dawgdate-info3
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
-[personal-url]: https://leah--jia.web.app/
+[personal-url]: https://leahjia.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/leahjia/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

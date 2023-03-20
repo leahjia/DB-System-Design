@@ -60,7 +60,7 @@ Project Link: [https://github.com/leahjia/Projects](https://github.com/leahjia/P
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/leahjia/
 [personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
-[personal-url]: https://leah--jia.web.app/
+[personal-url]: https://leahjia.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
