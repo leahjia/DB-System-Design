@@ -5,44 +5,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Personal][personal-shield]][personal-url]
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/leahjia/Projects">
-    <img src="path-finder/pathfinder/img/pathfinder-result.png" alt="Logo" width="800" height="500">
-  </a>
-
-  <h3 align="center">Campus Path Finder</h3>
-
-  <p align="center">
-    The quickest way to find available routes on campus!
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-* Path Finder is a client-server application to allow you to search for the shortest routes on UW campus 🏫
-* It uses the modeling of map data structure and API endpoints to allow frontend connection to backend 💻
-* It increases data sorting and retrieval speed by 70% by incorporating Dijkstra’s algorithm ✔️
-* It also ensures high complexity and functionality of the application with Jest, JUnit, and script tests that runs in the back end 🥇
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Built With
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
