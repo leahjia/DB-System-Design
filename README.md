@@ -5,52 +5,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Personal][personal-shield]][personal-url]
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/leahjia/Projects">
-    <img src="dawg-date/public/img/landing.png" alt="Logo" width="800" height="500">
-  </a>
-
-  <h3 align="center">Dawg Date</h3>
-
-  <p align="center">
-    A better dating experience on campus for University of Washington students!
-  </p>
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-* DawgDate provides a secure platform exclusively for University of Washington students to safely meet each other.
-* It is a platform that focuses on you. 
-* Save time and find others based on your own preferences 💌
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Built With
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-
-### Prerequisites
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-<!-- CONTACT -->
-## Contact
-
-Leah Jia - [@leahjia](https://www.linkedin.com/in/leahjia/) - yuwenj3@uw.edu
-
-Project Link: [https://dawgdate-info340-project.web.app/](https://dawgdate-info340-project.web.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [personal-shield]: https://img.shields.io/badge/Leah-Jia-blue?style=for-the-badge
