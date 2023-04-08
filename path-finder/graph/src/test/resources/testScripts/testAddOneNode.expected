@@ -1,8 +1,0 @@
-# DesignMap adding nodes testing file.
-# Tests that a single node can be added to the map
-
-# Create a graph
-created graph map1
-
-# Add one node to map1
-added node n1 to map1

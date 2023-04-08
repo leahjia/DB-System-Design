@@ -1,8 +1,0 @@
-# DesignMap list of nodes testing file.
-# Tests that a list of nodes in map can be computed with no nodes in the map
-
-# Create a graph
-created graph map1
-
-# Finds the nodes of map1
-map1 contains:
